@@ -1,0 +1,22 @@
+{
+  "name": "Main-Site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "content-a": "git+https://github.com/nolfranklin/content-a.git",
+    "content-b": "git+https://github.com/nolfranklin/content-b.git",
+    "fs-extra": "^10.0.0"
+  }
+}
