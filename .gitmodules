@@ -1,0 +1,8 @@
+[submodule "src/team-a"]
+	path = src/team-a
+	url = git@github.com:nolfranklin/content-a.git
+	branch = main
+[submodule "src/team-b"]
+	path = src/team-b
+	url = git@github.com:nolfranklin/content-b.git
+	branch = main
